@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Networking\obj\Debug\Networking.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Networking\bin\Debug\Networking.exe.config
+C:\Users\user\source\repos\Networking\bin\Debug\Networking.exe
+C:\Users\user\source\repos\Networking\bin\Debug\Networking.pdb
+C:\Users\user\source\repos\Networking\obj\Debug\Networking.exe
+C:\Users\user\source\repos\Networking\obj\Debug\Networking.pdb
+C:\Users\user\source\repos\Networking\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Networking\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Networking\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Networking\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Networking\bin\Debug\Twilio.dll
+C:\Users\user\source\repos\Networking\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\source\repos\Networking\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Networking\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\source\repos\Networking\bin\Debug\Twilio.xml
+C:\Users\user\source\repos\Networking\obj\Debug\Networking.csproj.CopyComplete
